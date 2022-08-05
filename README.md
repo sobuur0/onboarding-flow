@@ -1,5 +1,15 @@
 # login_flow
 
+## ✨ Todos
+- [] email input with real time validation.
+- [] password input that enforces complexity constraints.
+- [] confirm password field.
+- [] 'show password' toggle.
+- [] 'forgot password?' flow.
+- [] attempt throttling on both onboarding submission and forgot password flow to prevent spam and brute force hacking(Whatever this means).
+- [] secure password hashing(would definitely understand this with time).
+- [] error messages.
+
 A new Flutter project.
 
 ## Getting Started
